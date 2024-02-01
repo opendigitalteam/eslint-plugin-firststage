@@ -11,6 +11,9 @@
   },
   "author": "",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "np": "^9.2.0"
   }
